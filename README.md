@@ -41,4 +41,4 @@ Hoje meu foco está no desenvolvimento de interfaces modernas e aplicações web
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Hilton Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=htgustavo&show_icons=true&theme=dracula)
+![Hilton Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiltongustavo&show_icons=true&theme=dracula)
