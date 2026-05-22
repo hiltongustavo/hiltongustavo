@@ -1,5 +1,5 @@
 
-<h1>Hello World, Meu nome é Hilton Gustavo, <br />Transformo ideias em código e código em soluções! 🚀💻</h1>
+<h1>Hello World, I'm  Hilton Gustavo, </h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/hiltongustavo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://hiltongustavo.com/"><img src="https://img.shields.io/badge/-Meu%20Portifólio_-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/></a>
@@ -7,16 +7,15 @@
 
 </p>
 
-<h2> 👨🏻‍💻 Sobre mim </h2>
+<h2> 👨🏻‍💻 About</h2>
 
-Sou desenvolvedor web com mais de 9 anos de experiência, apaixonado por transformar ideias em produtos digitais funcionais e bem estruturados.
-
-Comecei minha jornada no desenvolvimento criando e customizando sites, explorando HTML, CSS e JavaScript, e com o tempo evoluí para arquiteturas mais modernas, trabalhando com React, Next.js e aplicações full-stack.
-Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
-
-Ao longo da minha carreira trabalhei em diferentes tipos de projetos — desde sites institucionais e plataformas web até sistemas personalizados, sempre buscando unir performance, boa experiência do usuário e código bem estruturado.
-
-Hoje meu foco está no desenvolvimento de interfaces modernas e aplicações web escaláveis, utilizando tecnologias como React, Next.js e TypeScript, além de integração com APIs e construção de soluções completas para web.
+I am a Full Stack Developer with a Front-End focus, with over 9 years of experience in web application development.
+ 
+I primarily work with React, Next.js, JavaScript, and TypeScript, contributing to end-to-end solutions — from concept to production — ensuring quality, performance, and consistency across application layers.
+ 
+Throughout my career, I have worked in different contexts such as e-commerce, institutional systems, and web platforms, developing everything from user interfaces to more complex applications with API integrations and structured data flows.
+ 
+I have experience working on applications with higher traffic and performance requirements, focusing on load optimization, component-based architecture, and code organization to ensure scalability and long-term maintainability.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
